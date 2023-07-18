@@ -24,4 +24,4 @@ jobs:
       with:
         host: ${{ secrets.SONARQUBE_HOST }}
         login: ${{ secrets.SONARQUBE_TOKEN }}
-        project_key: GITHUB
+        Project_Key: fa89d62e649e861d54dd24a8effc46cd12c305a0
